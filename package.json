@@ -7,7 +7,10 @@
 		"pomelo-loader": "0.0.6",
 		"pomelo-logger": "0.1.7",
 		"node-uuid": "1.4.0",
-		"async": "0.2.10"
+		"async": "0.2.10",
+		"is-generator-function": "^1.0.6",
+		"bluebird": "^3.5.0",
+		"co": "^4.6.0"
 	},
 	"devDependencies": {
 		"mocha": ">=0.0.1",
